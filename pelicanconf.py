@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = '氷雨（ひさめ）'
 SITENAME = '氷雨ろぐ'
-SITEURL = ''
+SITEURL = '/blog/'
 
 PATH = 'content'
 
